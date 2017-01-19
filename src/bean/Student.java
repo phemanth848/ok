@@ -1,7 +1,7 @@
 package bean;
 
 public class Student {  
-	
+//Hello java	
 private String name; 
 private int id;
   
