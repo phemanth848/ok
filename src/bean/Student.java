@@ -2,6 +2,7 @@ package bean;
 
 public class Student {  
 //Hello java	
+//java
 private String name; 
 private int id;
   
